@@ -1,0 +1,38 @@
+five data types are
+  Numbers
+  Strings
+  Arrays
+  Hashes
+  Booleans
+
+  # completed q1
+
+  a clas variable is shared by all classes whilst an instance variable is only shared by one variable
+
+   # completed q2
+
+  the method  should all be in lower case and if you wanted ALLTHECHEESE in capitals you need to add.uppercase
+
+   # completed q3
+
+  string2 will have been shoved or bucketed into 'String2' this doesn't make sense as there is no need to do this - you would get an error
+
+   # completed q4 
+
+   string2 would be shoved into string1 and we would get larger data set or achieve the aim of this command
+
+   # completed q5
+
+   with an array to access the variable you type its number remembering that ruby starts at 0 so to get the third element we type (2)
+
+   # completed q6
+
+   this would return 
+   => 'Developer'
+
+   # completed q7
+
+
+
+
+
